@@ -18,11 +18,11 @@ What do you do to take a break from coding? I started with some things I do... w
 ## Physical activity
 - HI-YAH! I just started doing martial arts 3xs a week with my older daughter towards the end of 2018.
 
-take-a-coding-break/karate-fighter-silhouette.jpg
+![Karate fighter silhouette](https://github.com/webdevholland/take-a-coding-break/blob/master/karate-fighter-silhouette.jpg)
 
 - I love walking. If it's nice out, I'll walk to food carts that are lined up a couple of blocks away from where I work.
 
-take-a-coding-break/food cart.png
+![Guy pushing food cart](https://github.com/webdevholland/take-a-coding-break/blob/master/food%20cart.png)
 
 ## Reading for fun
 - What's on my nightstand right now is [<i>Crush</i> by Svetlana Chmakova](https://svetlania.com/comics.shtml) (I'm a kid at heart ;-)).
